@@ -2,4 +2,5 @@ jsut tsetign pipline stuff
 excluding deployment stage in code build 
 commiting out deployment stage in  cuildspec.yml in code build
 adding taskdefination in buildspec in code build
+added env vars in code build
 uiui
