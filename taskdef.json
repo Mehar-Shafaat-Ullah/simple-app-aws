@@ -1,7 +1,7 @@
 {
   "family": "simple-app-task",
   "networkMode": "awsvpc",
-  "executionRoleArn": "arn:aws:iam::<AWS_ACCOUNT_ID>:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::<650012445623>:role/ecsTaskExecutionRole",
   "containerDefinitions": [
     {
       "name": "simple-app",
