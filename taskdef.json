@@ -5,6 +5,7 @@
   "containerDefinitions": [
     {
       "name": "simple-app",
+      
       "image": "<IMAGE>",
       "memory": 512,
       "cpu": 256,
