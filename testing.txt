@@ -1,3 +1,4 @@
 jsut tsetign pipline stuff 
 excluding deployment stage in code build 
+commiting out deployment stage in  cuildspec.yml in code build
 uiui
